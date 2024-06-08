@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717718400&semt=ais_user" alt="coding" width="400">
+<img  src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717718400&semt=ais_user" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinits-repo&label=Profile%20views&color=0e75b6&style=flat" alt="vinits-repo" /> </p>
 
