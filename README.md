@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=bg%20web%20developer&imgurl=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ftlr8oxjg%2Fproduction%2F5c3120359be5c4f225cd7b817811217041b759ab-1192x668.png%3Fw%3D3840%26q%3D100%26fit%3Dclip%26auto%3Dformat&imgrefurl=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Ffull-stack-web-developer-nanodegree--nd0044&docid=DUMec0pEvvbmgM&tbnid=_n8VRISaelsU-M&vet=12ahUKEwicmfektMuGAxX3afUHHWrSD4UQM3oECCIQAA..i&w=3840&h=2152&hcb=2&ved=2ahUKEwicmfektMuGAxX3afUHHWrSD4UQM3oECCIQAA)]
+
 <h1 align="center">Hi 👋, I'm Vinit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1717718400&semt=ais_user" alt="coding">
